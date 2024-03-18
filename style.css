@@ -1,0 +1,32 @@
+h1{
+text-align: center;
+text-transform: capitalize;
+}
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+#outer{
+  font-size: 50px;
+}
+h1:hover{
+  color: red;
+  cursor: pointer;
+}
+ div{
+height: 50px;
+background-color: pink;
+width: 100px;
+border-color: black;
+border-style:dotted ;
+}
+h1{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border-style: double;
+  border-color: green;
+  text-align: center;
+}
+div{
+  border-radius: 10%;
+}
